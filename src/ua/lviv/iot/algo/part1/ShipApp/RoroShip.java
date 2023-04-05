@@ -1,10 +1,10 @@
 package ua.lviv.iot.algo.part1.ShipApp;
 
 
-public class ROROShip extends CargoShip{
+public class RoroShip extends CargoShip{
     private int vehicles;
 
-    ROROShip(int vehicles,double tonnage, String typeOfCargo, double id,
+    RoroShip(int vehicles, double tonnage, String typeOfCargo, double id,
              String name, String captain, String currentPort, double maxSpeed,
              double maxCapacity, double currentLoad, double currentSpeed,
              int crewCount, int supportStaff)
