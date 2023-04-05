@@ -35,11 +35,11 @@ public class ShipManager extends AbstractShipManager {
                 "Joe Hahn","Lisbon",15,60.2,20.6,
                 13.6,20,36,65.7));
 
-        manager.addShip(new ROROShip(15,12.7,"cars",11.6,"ROROShip 1",
+        manager.addShip(new RoroShip(15,12.7,"cars",11.6,"ROROShip 1",
                 " Brad Delson","LA",18.6,15.6,12.5,
                 16.6,17,21));
 
-        manager.addShip(new ROROShip(23,15.2,"trucks",12.7,"ROROShip 2",
+        manager.addShip(new RoroShip(23,15.2,"trucks",12.7,"ROROShip 2",
                 " Dave Farrell","Boston",22,25.6,23.6,
                 21,18,22));
 
